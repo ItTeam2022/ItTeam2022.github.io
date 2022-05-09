@@ -242,19 +242,18 @@ body{
   from {opacity: .4}
   to {opacity: 1}
 }
-.trailer video{
-    width: 90%;  
-    margin: 40px 0px 20px 40px;
+iframe{
+  position: relative;
+  left:210px
 }
 .form form{
   margin-left: 20px;
   font-size: larger;
 }
 .watch{
-  position: relative;
-  left: 150px;
-  top: -16px;
-  display: inline-block;
+  position: absolute;
+  left: 310px;
+  top:570px ;
 }
 .watch a{
   text-decoration: none;
@@ -268,8 +267,8 @@ body{
 }
 .Download {
   position: relative;
-  left: 689px;
-  top: -16px;
+  top: 55px;
+  left: 70px;
   display: inline-block;
 }
 .Download a{
