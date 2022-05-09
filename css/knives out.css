@@ -242,18 +242,19 @@ body{
   from {opacity: .4}
   to {opacity: 1}
 }
+.trailer{
+  position: relative;
+  padding: 60px 0px 60px 0px;
+}
 iframe{
   position: relative;
   left:210px
-}
-.form form{
-  margin-left: 20px;
-  font-size: larger;
 }
 .watch{
   position: absolute;
   left: 310px;
   top:570px ;
+  
 }
 .watch a{
   text-decoration: none;
