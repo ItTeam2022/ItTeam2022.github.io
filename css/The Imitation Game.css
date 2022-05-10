@@ -171,12 +171,12 @@ nav {
     left: 33px;
     font-weight: 700;
 }
-.vid{
-    margin-left: 56px;
-    width: 90%;
+iframe{
+    position: relative;
+    left:240px;
     padding-top: 40px;
     padding-bottom: 40px;
-    height: 90%;
+    
 }
 .movie-info table table, th, td {
     position: relative;
