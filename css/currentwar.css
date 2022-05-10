@@ -114,8 +114,8 @@ th, td {
 tr:hover {
   background-color: ;}
 .trailer{
-  width: 50%;
-  height: auto;
+  width: 600px;
+  height: 400px;
   position: relative;
   left: 25%;
   align-items: center;
@@ -168,10 +168,7 @@ tr:hover {
   color: rgba(107, 64, 8, 0.473);
 
 }
-.cast{
- 
-    
-}
+
 .cast img{
   cursor: ;
   align-items: ; float: left;
@@ -196,26 +193,9 @@ tr:hover {
   }
   
 
-.down{
-  padding: 10px 10px;
-  background-color: #eee1d7;
-  display: flex;
-}
 
 
 
-
-
-
-
-
-.download{
-  width: 20px;
-  height: 30px;
-  padding-left: 40px;
-  display:block;
-  text-decoration: none;
-}
 
 
 
