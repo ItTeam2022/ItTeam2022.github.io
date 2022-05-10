@@ -92,7 +92,7 @@ nav {
     left: -61px;
 }
 .M17{ margin-top:18em;
-    margin-left:100 px;
+    margin-left: 17em;
     border-radius: 30px;
     background-color: #606163;
     height: 50px;
@@ -103,7 +103,7 @@ nav {
 .M17:hover{
     background-color: blue;
 }
-.M18{margin-left:60px;
+.M18{margin-left:20px;
     text-decoration: none;
     text-align:center;}
 
