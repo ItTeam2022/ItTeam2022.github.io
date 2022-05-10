@@ -263,12 +263,16 @@ margin-bottom: 40px;}
   border-radius: 30px;
 }
 .M10{
+  text-decoration: none;
   margin-top: 50px;
 
 }
 .M10:visited {
   color: #5fb49c;
 }
+.links{font-size: 40px;
+    text-decoration: none;
+  }
 
 .container1 {
   color: black;display: flex;
