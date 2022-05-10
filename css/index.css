@@ -98,7 +98,8 @@ nav {
     height: 50px;
     width: 250px;
     font-size: 37px;
-    margin-top: 46px;}
+    margin-top: 46px;
+    color:white;}
 .M17:hover{
     background-color: blue;
 }
