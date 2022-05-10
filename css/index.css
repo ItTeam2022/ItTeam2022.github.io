@@ -91,7 +91,15 @@ nav {
     top: -45px;
     left: -61px;
 }
-
+button {
+    margin-left: 18em;
+    border-radius: 30px;
+    background-color: #606163;
+    height: 50px;
+    width: 250px;
+    font-size: 37px;
+    margin-top: 46px;
+}
 footer {
     margin-top: 2em;
     margin-top: 2em;
