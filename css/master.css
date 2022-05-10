@@ -267,6 +267,7 @@ body {
     border-radius: 30px;
   }
   .M10{
+      text-decoration: none ;
     margin-top: 50px;
   
   }
@@ -368,6 +369,9 @@ body {
     border-radius: 30px;
     cursor: pointer;
   }
+.links{font-size: 40px;
+    text-decoration: none;
+  }
   #form{
     display: none;
   }
@@ -400,9 +404,10 @@ body {
       padding: 20px;
     }
     .M15{
+       font-family:fantasy; 
       margin-left: 520px;
-      margin-top: 20em;
-      font-size: xx-large;
+      margin-top: 13em;
+      font-size: 50px;
       border-radius: 30px;
       background-color: aliceblue;
     width: 415px;
