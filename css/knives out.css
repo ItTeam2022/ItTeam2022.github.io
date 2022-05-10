@@ -131,7 +131,7 @@ body{
 .soundtrackes{
     position: absolute;
     top: 20px;
-    left: 856px;
+    left: 970px;
 }
 .actor{
     padding-top: 60px;
@@ -255,7 +255,7 @@ iframe{
 }
 .watch{
   position: absolute;
-  left: 310px;
+  left: 400px;
   top:570px ;
   
 }
