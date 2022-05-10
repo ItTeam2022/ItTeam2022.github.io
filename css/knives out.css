@@ -152,6 +152,9 @@ body{
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 15px;
 }
+.actor h3{
+  cursor: pointer;
+}
 .img1{
     width: 250px;
 }
