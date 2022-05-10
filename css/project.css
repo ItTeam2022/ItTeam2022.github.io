@@ -138,12 +138,13 @@ display: none; /* Hidden by default */
 
 }
 .clos {
-  top: 268px;
-  font-size: 30px;
-   font-weight: bold;
-   cursor: pointer;
-  color: rgb(217, 37, 37);
-  }
+ position: absolute;
+top: 268px;
+font-size: 30px;
+ font-weight: bold;
+ cursor: pointer;
+color: rgb(217, 37, 37);
+}
 nav {
    
    width: 84%;
