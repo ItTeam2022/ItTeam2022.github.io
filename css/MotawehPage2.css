@@ -421,6 +421,7 @@ font-size: 20px;
 .AvengersInfinityWar{
     width: 175px;
     height: 260px;
+     cursor:pointer;
 }
 .DivDoctorStrangeInTheMultiversOfMadness{
     width: fit-content;
@@ -432,6 +433,7 @@ font-size: 20px;
 .DoctorStrangeInTheMultiversOfMadness{
     width: 175px;
     height: 260px;
+     cursor:pointer;
 }
 .Divinterstellar{
     width: fit-content;
@@ -443,6 +445,7 @@ font-size: 20px;
 .interstellar{
     width: 175px;
     height: 260px;
+     cursor:pointer;
     
 }
 .DivSpiderManNoWayHome{
@@ -455,6 +458,7 @@ font-size: 20px;
 .SpiderManNoWayHome{
     width: 175px;
     height: 260px;
+     cursor:pointer;
 }
 .DivTheDarkKnight{
     width: fit-content;
@@ -466,6 +470,7 @@ font-size: 20px;
 .TheDarkKnight{
     width: 175px;
     height: 260px;
+     cursor:pointer;
 }
     footer {direction: ltr;
         margin-top: 2em;
@@ -614,3 +619,7 @@ font-size: 20px;
    color: #f1f1f1;
    text-decoration: none;
  }
+.NotYet{
+        cursor:pointer;
+
+      }
