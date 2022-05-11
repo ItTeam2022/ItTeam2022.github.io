@@ -5,7 +5,7 @@
     margin:330;
     padding:440;
     box-sizing: border-box;
-    scroll-behavior: smooth;
+   
 }
 nav {
   top: 0;
@@ -52,10 +52,6 @@ nav #container {
   left: 96%;
   transform: translate(-50%, -50%);
 }
-.dark-mode {
-  background-color: white;
-  color: black;
-}
 .Theme{
   margin-top: -105px;
   font-size: larger;
@@ -83,7 +79,7 @@ section {
     background-image: url("../media/mostafa media/background.jpg");
     background-size: cover;
     background-position: center;
-    background-attachment: 
+    
 }
 
 table {
