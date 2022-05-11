@@ -9,18 +9,19 @@
     <title>Login</title>
 </head>
 <body>
-    <form class="form" method="get">
+    <form class="form" method="post">
+       <a href="..\index.html"><img src="../media/mostafa media/logo.jpg" alt="home"></a> 
         <input type="text" id="name" class="name" placeholder="Username" required ><br>
         <input type="password" id="pass" class="password" placeholder="Password"  required ><br>
-       <input  class="login" value="login" type="submit" >
-       
+       <input  class="login" value="login" type="submit"  >
+       <label class="remember">
+        <input type="checkbox"  > Remember me
+      </label>
         <p class="forgot">Forgot password?</p>
             <br>
         <input  type="button" onclick="document.getElementById('id1').style.display='block'"  type="button" class="register" value="don't have account?">
         
-        <label class="remember">
-            <input type="checkbox"  > Remember me
-          </label>
+       
     </form>
     <!--<div class="regform"></div>-->
     <div class="modal" id="id1">
@@ -110,20 +111,18 @@
         </div>
         <h2 class="gender">Gender</h2>
         <span class="choose">
-        <label class="radio">    
-            <input type="radio" class="radio-one" checked="checked"> 
-            <span class="checkmark"></span> 
+            <input type="radio" name="gender" class="radio-one" checked="checked"value="Male"> 
+        <label class="radio">         
             Male
         </label>
+        <input type="radio" name="gender" class="radio-one"  value="Female" > 
         <label class="radio">    
-            <input type="radio" class="radio-one" > 
-            <span class="checkmark"></span> 
             Female
         </label>
     </span>
         <h6>By clicking Sign Up, you agree to our<a>Terms</a> , <a href="">Data Policy</a> and <a href="">Cookie Policy</a>. You may receive SMS notifications from us and can opt out at any time.</h6>
         <br>
-        <input type="submit" value="Sign Up" class="sup">
+        <input type="submit" value="Sign Up" class="sup" onclick="messege">
         <input type="submit" value="cancel" class="cancel"onclick="document.getElementById('id1').style.display='none'">
 
         
